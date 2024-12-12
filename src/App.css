@@ -13,11 +13,11 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: url(ciudadDeNoche.webp) center/cover no-repeat fixed;
+  background: url("/ciudadDeNoche.webp") center/cover no-repeat fixed;
 }
 
 #root:has(.nuevo) {
-  background: url(AñoNuevo.webp) center/cover no-repeat fixed;
+  background: url("/AñoNuevo.webp") center/cover no-repeat fixed;
 }
 
 .info{
